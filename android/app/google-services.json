@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "299209484128",
+    "project_id": "educenter-de225",
+    "storage_bucket": "educenter-de225.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299209484128:android:f8ff3ab475217cb2ffe005",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOp1B43MPMXZy1jXV6Tsd5THfzkwyQKBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
